@@ -3,6 +3,6 @@
     "start": "netlify dev --offline"
   },
   "devDependencies": {
-    "netlify-cli": "^12.0.9"
+    "netlify-cli": "^9.16.7"
   }
 }
