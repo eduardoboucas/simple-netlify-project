@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "netlify dev --offline"
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.0.9"
+  }
+}
